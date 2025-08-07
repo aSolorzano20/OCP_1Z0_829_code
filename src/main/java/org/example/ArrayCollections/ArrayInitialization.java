@@ -7,7 +7,7 @@ public class ArrayInitialization {
         //String sa1 = new String[]{"a", "b", "c"};
 
         String sa2[] = {"a", "b"};
-        String sa3[ ] = new String[ ]{"a", "b", "c"};
 
+        String sa3[ ] = new String[ ]{"a", "b", "c"};
     }
 }
